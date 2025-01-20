@@ -1,4 +1,1 @@
-In this project, we train the snake by updating the Q values based on the rewards and actions that are defined.
-There are 2 stages for danger, 4 for moving directions, and 8 for food directions.
-and we have a total of 256 statuses for states and this is the minimal number of states.
-After training for a while our snake presents a better performance.
+In this project, we train a snake AI using Q-learning by updating Q-values based on predefined rewards and actions. The environment is modeled with two danger stages, four possible movement directions, and eight food directions, resulting in a total of 256 states—the minimal number of states required for this setup. After sufficient training, the snake demonstrates improved performance and decision-making capabilities.
